@@ -1,3 +1,4 @@
+# Gerenciar as variáveis e suas atribuições
 class Data:
     def __init__(self):
         self.variables = {}
