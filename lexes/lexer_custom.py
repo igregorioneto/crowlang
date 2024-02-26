@@ -5,6 +5,7 @@ sys.path.append(tokens_path)
 
 from token_factory import TokenFactory
 
+# Generates a sequence of tokens
 class Lexer:
     # language specific characters
     digits = "0123456789"
